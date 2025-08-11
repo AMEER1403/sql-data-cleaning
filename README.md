@@ -1,6 +1,3 @@
-# sql-data-cleaning
-MySQL script for cleaning and standardizing data tables.
-
 # SQL Data Cleaning Project
 
 This project demonstrates how to clean and standardize raw data using MySQL.
